@@ -13,8 +13,8 @@ flutter run
 
 ## Source
 
-[Dicoding Academy](https://www.dicoding.com/academies/14)
+[Dicoding Academy](https://www.dicoding.com/academies/195)
 
 ## Screenshot
 
-<img src="assets/screenshot/chatapp.png" height="500em" width="1000em/> 
+<img src="assets/screenshot/chatapp.png" height="500em" width="1000em"/> 
